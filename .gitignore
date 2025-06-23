@@ -1,0 +1,32 @@
+# Ignore OS-specific system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore code editor settings
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore temp or backup files
+*.tmp
+*.bak
+*.swp
+
+# Ignore Node.js modules (if you use npm in future)
+node_modules/
+
+# Ignore build or packed output folders
+dist/
+build/
+extension.zip
+
+# Ignore environment config files (if you store secrets)
+.env
+.env.local
+.env.*
+
+# Ignore Chrome extension key (if generated for publishing)
+key.pem
