@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+
+  <title>DSA & CP Recommender</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>Today's Questions</h2>
+
+  <label class="theme-switch">
+    <input type="checkbox" id="themeToggle">
+    <span class="slider"></span> 🌙 Dark Mode
+  </label>
+
+  <div class="section">
+    <div class="platform-header">🟧 LeetCode</div>
+    <label for="difficulty">Select Difficulty</label>
+    <select id="difficulty">
+      <option value="EASY">Easy</option>
+      <option value="MEDIUM">Medium</option>
+      <option value="HARD">Hard</option>
+    </select>
+    <div id="leetcode">Loading...</div>
+  </div>
+
+  <div class="section">
+    <div class="platform-header">🟦 Codeforces</div>
+    <div id="codeforces">Loading...</div>
+  </div>
+
+  <div class="section">
+    <div class="platform-header">🟪 CodeChef</div>
+    <div id="codechef">Loading...</div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

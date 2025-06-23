@@ -1,0 +1,77 @@
+[
+  {
+    "problemCode": "FLOW001",
+    "problemName": "Add Two Numbers",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "HS08TEST",
+    "problemName": "ATM",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "START01",
+    "problemName": "Number Mirror",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "TSORT",
+    "problemName": "Turbo Sort",
+    "difficultyRating": "1200"
+  },
+  {
+    "problemCode": "FLOW002",
+    "problemName": "Find Remainder",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "INTEST",
+    "problemName": "Enormous Input Test",
+    "difficultyRating": "1100"
+  },
+  {
+    "problemCode": "CIELAB",
+    "problemName": "Ciel and A-B Problem",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "SUMTRIAN",
+    "problemName": "Sums in a Triangle",
+    "difficultyRating": "1300"
+  },
+  {
+    "problemCode": "CARVANS",
+    "problemName": "Carvans",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "COCONUT",
+    "problemName": "Coconut",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "CHOPRT",
+    "problemName": "Chef and Operator",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "FLOW004",
+    "problemName": "First and Last Digit",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "FLOW006",
+    "problemName": "Sum of Digits",
+    "difficultyRating": "1000"
+  },
+  {
+    "problemCode": "PRACTICE",
+    "problemName": "Practice makes a man perfect",
+    "difficultyRating": "1100"
+  },
+  {
+    "problemCode": "FCTRL2",
+    "problemName": "Small Factorials",
+    "difficultyRating": "1200"
+  }
+]
