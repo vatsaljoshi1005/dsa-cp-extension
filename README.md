@@ -1,56 +1,81 @@
-# 🧩 DSA CP Extension
+# 🚀 DSA-CP Extension
 
-A Chrome extension that helps programmers practice daily by suggesting:
+A Chrome/Brave extension that helps you stay consistent with daily DSA & Competitive Programming.  
+It recommends one question each from **LeetCode**, **Codeforces**, and **CodeChef** based on your profile.
 
-- ✅ 1 LeetCode DSA problem
-- 🧠 1 Codeforces CP problem
-- 🔁 1 CodeChef problem
+---
 
-## 🚀 Features
+## ✨ Features
 
-- Automatically fetches daily practice problems
-- Auto-launch on browser start
-- Personalized to your Codeforces profile
-- Lightweight and fast
-- Fully open-source and customizable
+- 📌 Daily 1-1-1 recommendation from LeetCode, Codeforces & CodeChef
+- 🎯 JSON-based question bank (easy to update)
+- 📊 Dashboard with problem links
+- 🧠 Boosts consistency in coding prep
+
+---
+
+## 📸 Demo
+
+<img src="demo/demo.gif" alt="DSA-CP Extension Demo" width="600"/>
+
+> 👆 This shows how the popup appears and how question suggestions are displayed.
+
+---
+
+## 🧠 Tech Stack
+
+- HTML, CSS, JavaScript
+- Chrome Extensions API
+- JSON (for question data)
+- Manual platform scraping / linking
+
+---
+
+## 📥 How to Install (Locally)
+
+1. Clone this repo or [download as ZIP](https://github.com/vatsaljoshi1005/dsa-cp-extension/archive/refs/heads/main.zip)
+2. Go to `chrome://extensions/` in your browser
+3. Enable **Developer mode** (top-right)
+4. Click **Load unpacked**
+5. Select the project folder (`dsa-cp-extension/`)
+6. Done! The extension will appear in your browser toolbar 🎉
+
+---
 
 ## 📁 Project Structure
 
-📦 dsa-cp-extension
+dsa-cp-extension/
 ├── background.js
 ├── codechef_problems.json
 ├── dashboard.html
 ├── manifest.json
 ├── popup.html
 ├── popup.js
-└── style.css
+├── style.css
+└── demo/
+└── demo.gif
 
-
-## 📦 Installation (for local testing)
-
-1. Go to `chrome://extensions/` in your browser.
-2. Enable **Developer mode** (top right).
-3. Click **Load unpacked**.
-4. Select the `dsa-cp-extension` folder.
-
-## 💡 Future Improvements
-
-- Add support for user-selected difficulty
-- Daily reminders and streak tracking
-- Dark mode
-
-## 🛠️ Built With
-
-- HTML, CSS, JavaScript
-- Chrome Extensions API
-
-## 🧑‍💻 Author
-
-**Vatsal Joshi**
 
 ---
 
-Feel free to contribute or fork this repo!
+## 🙌 Contribution
 
+Want to contribute?
+
+1. Fork the repo
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit your changes
+4. Push to your fork
+5. Open a Pull Request
+
+---
+
+## 📃 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+> 💡 Made with curiosity and code by [Vatsal Joshi](https://github.com/vatsaljoshi1005)
 
 
