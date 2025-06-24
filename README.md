@@ -44,6 +44,7 @@ It recommends one question each from **LeetCode**, **Codeforces**, and **CodeChe
 
 ## 📁 Project Structure
 
+```
 dsa-cp-extension/
 ├── background.js
 ├── codechef_problems.json
@@ -53,7 +54,9 @@ dsa-cp-extension/
 ├── popup.js
 ├── style.css
 └── demo/
-└── demo.gif
+    └── demo.gif
+```
+
 
 
 ---
